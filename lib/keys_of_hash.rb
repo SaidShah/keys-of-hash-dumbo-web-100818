@@ -9,6 +9,7 @@ class Hash
         new_array << animal   
     end
    end
+   new_array
   end
 
 end
