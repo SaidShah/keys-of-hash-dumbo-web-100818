@@ -3,6 +3,7 @@ require "pry"
 
 class Hash
   def keys_of(*arguments)
-  return arguments.keys
+  my_hash = arguments.keys
   end
+  my_hash
 end
